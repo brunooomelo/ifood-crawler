@@ -1,9 +1,11 @@
-# Ifood Crawler Name
+# Ifood Crawler
+
+> crawler all restaurant name in state
 
 
 ### How to use
   - Clone this project
-  - run `npm install``
+  - run `npm install`
   - and run `node index.js [state]` :: [default='`sao-paulo-sp`']
   
 ### How to get state name in ifood
